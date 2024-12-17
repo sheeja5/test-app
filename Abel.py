@@ -1,4 +1,4 @@
 import streamlit as st
-import google-generativeai as genai
+import googlegenerativeai as genai
 st.title ("hello")
 
